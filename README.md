@@ -1,4 +1,4 @@
-# sobre mim
+
 - 👋 Ola,meu nome é @vinilegalpow
 - 📧 meu endereço de email: vinicio.schlocobier@escola.pr.gov.br
 - 👀 Estou interessado em programação
@@ -13,3 +13,5 @@
 
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+
